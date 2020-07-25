@@ -22,6 +22,6 @@ while True:
         h = h + 2
         j = j + 2
     i = i + 1
-    if i == 9999999999:
+    if i == 9999:
         break
 print('done')
